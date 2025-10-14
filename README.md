@@ -19,20 +19,11 @@
 
 ---
 
-### 📊 **Estatísticas do GitHub**
+### 📊 **Estatísticas**
 <div align="center">
 
 ![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoH18&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoH18&layout=compact&theme=radical)
-
-</div>
-
----
-
-### 🏆 **Repositórios que contribuo**
-<div align="center">
-
-![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoH18&layout=compact&theme=radical)
 
 </div>
 
@@ -43,4 +34,4 @@
 
 ---
 
-> “Código limpo é a base de um bom desenvolvedor.”
+> “Código limpo é a base de um bom desenvolvedor.”  
