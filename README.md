@@ -37,4 +37,6 @@
 
 </div>
 
+---
+
 > “Código limpo é a base de um bom desenvolvedor.”
