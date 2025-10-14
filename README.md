@@ -30,8 +30,9 @@
 ---
 
 ### 📫 **Contato**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Breno%20Henrique-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/breno-ferreira-b672052a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Breno%20Henrique-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/breno-ferreira-b672052a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-@breno.h18.oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno.h18.oficial/)
 
 ---
 
-> “Código limpo é a base de um bom desenvolvedor.”  
+> “Código limpo é a base de um bom desenvolvedor.”
