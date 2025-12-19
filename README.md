@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Breno Henrique  
 
 💻 **Desenvolvedor Full-Stack Júnior** focado em criar aplicações web modernas e eficientes.  
-🚀 Experiência com **React.js**, **Supabase**, **HTML**, **CSS** e **JavaScript**.  
+🚀 Experiência com **HTML**, **CSS**, **React.js**, **JavaScript**, **TypeScript** e **Supabase**.  
 🧩 Interesso-me por arquitetura de software, boas práticas e performance em aplicações front-end.  
 
 ---
