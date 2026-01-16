@@ -23,9 +23,9 @@
 ### 📊 **Estatísticas**
 <div align="center">
 
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoH18&show_icons=true&theme=radical&rank_icon=github)  
+![Breno's GitHub stats](https://github-readme-stats-git-master-orgs.vercel.app/api?username=BrenoH18&show_icons=true&theme=radical&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoH18&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-master-orgs.vercel.app/api/top-langs/?username=BrenoH18&layout=compact&theme=radical)
 
 </div>
 
