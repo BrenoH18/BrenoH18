@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 **Estatísticas**
-<div align="center">
-
-![Breno's GitHub stats](https://github-readme-stats-brenoh18.vercel.app/api?username=BrenoH18&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats-brenoh18.vercel.app/api/top-langs/?username=BrenoH18&layout=compact&theme=radical)
-
-</div>
-
----
-
 ### 📫 **Contato**
 <div align="left">
   
